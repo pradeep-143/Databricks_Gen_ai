@@ -19,7 +19,7 @@ def silver_company_jd():
         CONCAT(
             'You are a data extraction engine. Extract the following fields from the input text:\n',
             '- Title (string)\n',
-            '- Experience (int, year should always be maximun)\n',
+            '- Experience (int, year should always be Open$0maximun)\n',
             '- Skills (strings)\n\n',
             'Rules:\n',
             '1. Return ONLY a valid JSON object, nothing else.\n',
